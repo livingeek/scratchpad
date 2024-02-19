@@ -1,0 +1,1 @@
+Repo of random scripts that I run to test things/follow getting started guides.  It's basically a repo of gists for myself.  If you find it useful too that's great!
